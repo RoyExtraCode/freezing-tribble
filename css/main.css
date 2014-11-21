@@ -1,4 +1,9 @@
 .blue {
 	
-	background: white;
+	background: yellow;
+	font-family: helvetica;
+}
+.clear {
+	
+opacity: 0.5;
 }
